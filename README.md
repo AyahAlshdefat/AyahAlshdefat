@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AyahAlshdefat
 - 👀 I’m interested in DataScience and Artificial intelligence
-- 🌱 I’m currently learning R programming
 - 📫 How to reach me from email: ayahshdefat377@gmail.com
 
 
